@@ -24,5 +24,5 @@ Design an API with 3 endpoints:
 + mm/dd/yyyy - DM - short description
 - 01/07/2025 - DM - Created git repository.
 
-Peer Reviewed By: 
-> Comments: 
+Peer Reviewed By: Trey 
+> Comments: Great job! There were no issues on my end.
